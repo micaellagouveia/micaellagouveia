@@ -16,13 +16,13 @@
 
 ## My Study Repos
 
-[![Estudo Testes](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=testesSoftware&show_owner=true)](https://github.com/micaellagouveia/testesSoftware)
+[![Estudo Testes](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=testesSoftware&show_owner=false)](https://github.com/micaellagouveia/testesSoftware)
 
-[![Estudo ArquiteturaDSW](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=arquitetura-desenho&show_owner=true)](https://github.com/micaellagouveia/arquitetura-desenho)
+[![Estudo ArquiteturaDSW](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=arquitetura-desenho&show_owner=false)](https://github.com/micaellagouveia/arquitetura-desenho)
 
-[![Estudo SpringBoot](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=springBoot&show_owner=true)](https://github.com/micaellagouveia/springBoot)
+[![Estudo SpringBoot](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=springBoot&show_owner=false)](https://github.com/micaellagouveia/springBoot)
 
-[![Estudo RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=rabbitmq&show_owner=true)](https://github.com/micaellagouveia/rabbitmq)
+[![Estudo RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=rabbitmq&show_owner=false)](https://github.com/micaellagouveia/rabbitmq)
 
 ## Tools
 
