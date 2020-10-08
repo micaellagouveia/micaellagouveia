@@ -14,16 +14,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellagouveia&layout=compact)
 
-## My Study Repos
-
-[![Estudo Testes](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=testesSoftware&show_owner=false)](https://github.com/micaellagouveia/testesSoftware)
-
-[![Estudo ArquiteturaDSW](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=arquitetura-desenho&show_owner=false)](https://github.com/micaellagouveia/arquitetura-desenho)
-
-[![Estudo SpringBoot](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=springBoot&show_owner=false)](https://github.com/micaellagouveia/springBoot)
-
-[![Estudo RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=micaellagouveia&repo=rabbitmq&show_owner=false)](https://github.com/micaellagouveia/rabbitmq)
-
 ## Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
