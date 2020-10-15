@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-    - internship at CNJ
     - production of a new app [Jumpo](https://lara-unb.github.io/Jumpo_Docs/#/)
     - production of a new app [Stock](https://unbarqdsw.github.io/2020.1_G12_Stock/#/)
 
 - 🌱 I’m currently learning ...   
     - React Native
     - TypeScript
-    - Basic of Frontend    
+    - Frontend    
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=micaellagouveia&theme=dracula&show_icons=true&count_private=true) 
 
