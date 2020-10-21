@@ -1,3 +1,15 @@
+<img width="500px" align="center" src="./images/micaella.png" />  
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=micaellagouveia&theme=dracula&show_icons=true&count_private=true" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaellagouveia&layout=compact&theme=dracula"/></td>
+    </tr>   
+  </table>
+</center>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
@@ -7,40 +19,5 @@
 - 🌱 I’m currently learning ...   
     - React Native
     - TypeScript
-    - Frontend    
+    - Frontend
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=micaellagouveia&theme=dracula&show_icons=true&count_private=true) 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=micaellagouveia&layout=compact)
-
-## Tools
-
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png?raw=true"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/react-native/react-native.png?raw=true"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png?raw=true"></code>
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true"></code>
-
-
-
-
-
-<!--
-**micaellagouveia/micaellagouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
