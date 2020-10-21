@@ -1,7 +1,8 @@
-<img width="500px" align="center" src="./images/micaella.png" />  
+
 
 
 <center>
+<img width="500px" align="center" src="./images/micaella.png" />  
   <table>
     <tr>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=micaellagouveia&theme=dracula&show_icons=true&count_private=true" /></td>
